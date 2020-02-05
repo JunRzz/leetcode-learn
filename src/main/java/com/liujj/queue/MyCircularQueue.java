@@ -3,7 +3,6 @@ package com.liujj.queue;
 /**
  * @program: leetcode-learn
  * @description:
- * @author: liujunjie
  * @create: 2019-12-25 10:40
  **/
 public class MyCircularQueue {

@@ -9,7 +9,6 @@ import java.util.stream.Stream;
 /**
  * @program: leetcode-learn
  * @description:
- * @author: liujj
  * @create: 2019-12-26 17:03
  **/
 public class OpenLock {
